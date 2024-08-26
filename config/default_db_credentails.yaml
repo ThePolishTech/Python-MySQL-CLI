@@ -1,0 +1,6 @@
+DATABASE:
+  CHARSET: utf8mb4
+  DB: testdb
+  HOST: 127.0.0.1
+  PASSWORD: ''
+  USERNAME: root
